@@ -89,7 +89,6 @@ const styles = StyleSheet.create({
   },
   textStyle: {
     fontSize: 20,
-    color: PRIMARY_COLOR,
-    fontWeight: '600',
+    color: PRIMARY_COLOR
   },
 });
